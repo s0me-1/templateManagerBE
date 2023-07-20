@@ -1,0 +1,15 @@
+{
+    "contact": "@BeerStalker on Discord",
+    "templates": [
+        {
+            "name": "r/Place Belgium",
+            "sources": [
+                "https://raw.githubusercontent.com/s0me-1/templateManagerBE/main/templates/rplacebe.png"
+            ],
+            "x": 132,
+            "y": 133
+        }
+    ],
+    "whitelist": [],
+    "blacklist": []
+}
